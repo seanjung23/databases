@@ -10,7 +10,7 @@
   },
   "scripts": {
     "start": "nodemon ./server/app.js",
-    "start:es6": "npx babel-node ./server/app.js",
+    "start:e`s6`": "npx babel-node ./server/app.js",
     "test": "jest",
     "lint": "eslint ./"
   },
